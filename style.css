@@ -1,0 +1,29 @@
+
+#upper{
+    height: 30vh;
+    
+    background-image: url(/media/background_image.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    /* background-color: rgb(89, 174, 220); */
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+#upper .col-8 h1{
+    margin: 10vh;
+    text-align: center;
+    color: #fff;
+    font-family: 'Ubuntu', sans-serif;
+}
+.dp img{
+    border-radius: 50%;
+    margin-top: -15vh;
+}
+#contact, #contaxt-1{
+    margin-top: 5vh;
+}
+#contact button{
+    width: 100%;
+}
+
